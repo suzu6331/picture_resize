@@ -18,11 +18,11 @@
 git clone https://github.com/your-username/resize-image-app.git
 cd resize-image-app
 pip install -r requirements.txt
-
+```
 ## 使用方法
 アプリケーションを起動するには、以下のコマンドを実行してください。
 
 ```bash
 python app.py
-
+```
 次に、ブラウザで http://127.0.0.1:5000/ を開いて、画像ファイルとファイルサイズをフォームに入力してボタンを押すと変換されるはずです。
