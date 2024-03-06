@@ -12,7 +12,7 @@ def form():
                 <form action="/resize" method="post" enctype="multipart/form-data">
                     <input type="file" name="image" required />
                     <input type="number" name="target_size" placeholder="目標サイズ（MB単位）" required />
-                    <input type="submit" value="リサイズ" />
+                    <input type="submit" value="resize" />
                 </form>
             </body>
         </html>
